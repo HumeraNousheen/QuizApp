@@ -1,72 +1,72 @@
 export default [
     {
-        question: 'We can go for keys when there is possibility that our user could change the data?',
+        question: 'What is the Name of Your College?',
         answers: [
-            'Keys',
-            'Ref',
-            'Both',
-            'None of above'
+            'Mahatma Ghandhi University',
+            'IIT Roorkie',
+            'Kakathiya University',
+            'IIT Manali'
         ],
         correct: 1
     },
 
     {
-        question: 'JSX is typesafe?',
+        question: 'Who is Guide Of Your Project?',
         answers: [
-            'True',
-            'False',
-            'None of the Above',
-            'Cannot Be Determined'
+            ' Ms.Jyothi Rani',
+            'Ms.Swarnalatha',
+            'Ms.Rajeshwari',
+            'Mr.Sagar'
         ],
         correct: 1
     },    
     {
-        question: 'React merges the object you provide into the current state using which of the following',
+        question: 'What is Your Favourite Subject',
         answers: [
-            'setState()',
-            'State()', 
-            'getState()', 
+            'React.js',
+            'DBMS', 
+            'Java', 
             'None of the Above'
         ],    
-        correct: 1
+        correct: 3
     },    
     {
-        question: 'Arbitrary inputs of components are called?',
+        question: 'You have the Phobia Of?',
         answers: [
-            'Keys',
-            'Props', 
-            'Elements', 
-            'Ref'
+            'spiders',
+            'chocroach', 
+            'Lizards', 
+            'None Of the above'
+        ],    
+        correct: 3 
+    },
+    {
+        question: '_____ is the HEAD OF THE DEPARTMENT?',
+        answers: [
+            'Ms.Jyothi Rani',
+            'Ms.Rajeshwari', 
+            'Ms.Swarnlatha', 
+            'Mr.Durga Prasad'
+        ],    
+        correct: 3
+    },
+    {
+        question: 'What is React.JS?',
+        answers: [
+            'Server-Side Framework',
+            'User Interface FrameWork', 
+            'Both A&B', 
+            'None of the Above'
         ],    
         correct: 2
     },
     {
-        question: '_____ can be done while more than one element needs to be returned from a component?',
+        question: ' In which language is React.js is written?',
         answers: [
-            'Abstraction',
-            'Packing', 
-            'Insulation', 
-            'Wrapping'
-        ],    
-        correct: 4
-    },
-    {
-        question: 'Which of the following needs to be updated to achieve dynamic UI updates?',
-        answers: [
-            'State',
-            'Props', 
-            'Components', 
-            'None of the Above'
-        ],    
-        correct: 1
-    },
-    {
-        question: 'Lifecycle methods are mainly used _____',
-        answers: [
-            'To keep track of event history',
-            'To enhance components', 
-            'Free up resources', 
-            'None of the Above'
+            'C',
+            'JAVA', 
+            'JAVASCRIPT', 
+            'PHP'
         ],    
         correct: 3
     }

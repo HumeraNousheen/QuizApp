@@ -7,9 +7,9 @@ const Footer = () => {
             <Fade delay={500}>
                 <div className="font_righteous footer_logo_venue">React Quiz</div>
                 <div className="footer_copyright">
-                    Made with  
-                <span style={{color : 'crimson'}}>♥</span> By 
-                <a href="http://www.github.com/Jatin-8898" target="_blank"           rel="noopener noreferrer"> Jatin Varlyani 
+                    Made  
+                <span style={{color : 'crimson'}}></span> By 
+                <a href="https://github.com/HumeraNousheen" target="_blank"           rel="noopener noreferrer"> Humera Nousheen
                 </a>
                 
                 </div>

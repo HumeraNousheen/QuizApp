@@ -8,7 +8,7 @@ class Popup extends Component {
         
         this.state = {
             time: 'start',
-            title: 'Welcome to React Quiz',
+            title: 'Welcome to My Quiz',
             text: 'This is a quiz application built using ReactJS. <br /><br />',
             buttonText: 'Start the quiz' 
         };
